@@ -548,7 +548,7 @@ See [LICENSE](LICENSE) for full terms.
 
 ## 👤 Author
 
-**iBaadsha**
+**Shk_Noushad**
 B.Tech Computer Science | Kolkata, India
 Cybersecurity & AI/ML Developer
 
